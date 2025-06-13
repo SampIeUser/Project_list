@@ -11,4 +11,4 @@ Repository contains README.md with readable list of my projects
 - [Calc](https://github.com/SampIeUser/Calc) Calculator made in Qt.
 
 ## ESP32
--[Friendship lamp](https://github.com/SampIeUser/Friendship-lamp) Lamps with synchronisation through internet.
+- [Friendship lamp](https://github.com/SampIeUser/Friendship-lamp) Lamps with synchronisation through internet.
